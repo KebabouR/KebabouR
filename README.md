@@ -11,7 +11,6 @@ src="https://img.shields.io/github/followers/KebabouR?logo=github&style=for-the-
 
 ### KebabouR
 
-<p align="center"> <a href="https://www.github.com/KebabouR" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 
 <a href="http://www.github.com/KebabouR"><img src="https://github-readme-stats.vercel.app/api?username=KebabouR&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=64748b&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="KebabouR's GitHub stats" /></a>
